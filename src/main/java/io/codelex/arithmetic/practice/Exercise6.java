@@ -13,6 +13,8 @@ public class Exercise6 {
                 System.out.print(" Coza ");
             }else if(i%5==0){
                 System.out.print(" Loza ");
+            }else if(i%7==0){
+                System.out.print(" Woza ");
             }else{
                 System.out.print(" "+ i +" ");
             }
