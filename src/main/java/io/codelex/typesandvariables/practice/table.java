@@ -1,6 +1,6 @@
 package io.codelex.typesandvariables.practice;
 
-public class table {
+public class Table {
     public static void main(String[] args){
         String  course1="English III",
                 course2="Precalculus",
