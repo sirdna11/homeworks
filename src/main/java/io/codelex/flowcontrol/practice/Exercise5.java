@@ -10,7 +10,7 @@ public class Exercise5 {
         String input;
         while (true) {
             System.out.print("Enter a character: ");
-            input = in.nextLine();
+            input = in.nextLine().toLowerCase();
             switch (input) {
                 case "a":
                 case "b":
