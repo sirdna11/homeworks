@@ -10,12 +10,10 @@ public class Exercise4 {
                 1456, 2265, 1457, 2456
         };
 
-        /*
-        fixme - check if contains number 1245 
-        for (?) {
-            ......
-            System.out.println("Contains!");
+        for (int i = 0; i < myArray.length; i++) {
+            if (myArray[i] == 1254) {
+                System.out.println("Contains");
+            }
         }
-        */
     }
 }
