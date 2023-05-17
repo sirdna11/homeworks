@@ -1,4 +1,4 @@
-package io.codelex.classesandobjects.practice;
+package io.codelex.classesandobjects.practice.Exercise4;
 
 import java.util.ArrayList;
 import java.util.List;

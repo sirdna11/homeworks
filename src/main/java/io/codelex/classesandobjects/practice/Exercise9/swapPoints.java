@@ -1,4 +1,6 @@
-package io.codelex.classesandobjects.practice;
+package io.codelex.classesandobjects.practice.Exercise9;
+
+import io.codelex.classesandobjects.practice.Exercise9.Point;
 
 public class swapPoints {
     public static void main(String[] args) {

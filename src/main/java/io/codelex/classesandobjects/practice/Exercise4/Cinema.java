@@ -1,4 +1,6 @@
-package io.codelex.classesandobjects.practice;
+package io.codelex.classesandobjects.practice.Exercise4;
+
+import io.codelex.classesandobjects.practice.Exercise4.Movie;
 
 public class Cinema {
     public static void main(String[] args) {

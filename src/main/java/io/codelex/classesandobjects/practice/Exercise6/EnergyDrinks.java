@@ -1,4 +1,4 @@
-package io.codelex.classesandobjects.practice;
+package io.codelex.classesandobjects.practice.Exercise6;
 
 public class EnergyDrinks {
     static final int NUMBERED_SURVEYED = 12467;

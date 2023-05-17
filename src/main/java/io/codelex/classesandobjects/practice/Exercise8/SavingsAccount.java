@@ -1,4 +1,4 @@
-package io.codelex.classesandobjects.practice;
+package io.codelex.classesandobjects.practice.Exercise8;
 
 public class SavingsAccount {
     private double annualInterestRate;
