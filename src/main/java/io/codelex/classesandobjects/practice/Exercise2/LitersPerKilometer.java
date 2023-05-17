@@ -1,4 +1,6 @@
-package io.codelex.classesandobjects.practice;
+package io.codelex.classesandobjects.practice.Exercise2;
+
+import io.codelex.classesandobjects.practice.Exercise2.Car;
 
 import java.util.Scanner;
 

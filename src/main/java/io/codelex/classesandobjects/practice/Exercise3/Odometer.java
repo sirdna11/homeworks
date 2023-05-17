@@ -1,9 +1,11 @@
-package io.codelex.classesandobjects.practice;
+package io.codelex.classesandobjects.practice.Exercise3;
+
+import io.codelex.classesandobjects.practice.Exercise3.FuelGauge;
 
 public class Odometer {
-    private int currentMileage; // The car's current mileage
     private static final int MAX_MILEAGE = 999999; // The maximum mileage the odometer can store
     private static final int KM_PER_LITER = 10; // The car's fuel economy (10 kilometers per liter)
+    private int currentMileage; // The car's current mileage
     private FuelGauge fuelGauge; // The FuelGauge object associated with the odometer
 
     // Constructor

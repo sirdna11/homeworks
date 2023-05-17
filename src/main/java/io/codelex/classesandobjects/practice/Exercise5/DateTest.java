@@ -1,4 +1,6 @@
-package io.codelex.classesandobjects.practice;
+package io.codelex.classesandobjects.practice.Exercise5;
+
+import io.codelex.classesandobjects.practice.Exercise5.Date;
 
 public class DateTest {
     public static void main(String[] args) {

@@ -1,4 +1,6 @@
-package io.codelex.classesandobjects.practice;
+package io.codelex.classesandobjects.practice.Exercise8;
+
+import io.codelex.classesandobjects.practice.Exercise8.SavingsAccount;
 
 import java.util.Scanner;
 

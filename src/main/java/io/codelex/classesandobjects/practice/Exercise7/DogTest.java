@@ -1,4 +1,6 @@
-package io.codelex.classesandobjects.practice;
+package io.codelex.classesandobjects.practice.Exercise7;
+
+import io.codelex.classesandobjects.practice.Exercise7.Dog;
 
 public class DogTest {
     public static void main(String[] args) {
