@@ -1,25 +1,18 @@
 package io.codelex.exceptions.practice;
 
-import java.io.File;
+import java.io.*;
 
 public class Exercise3 {
     public static void cat(File file) {
-        /*
-        TODO - fix this method so it compiles
-        RandomAccessFile input = null;
-        String line = null;
-
-        try {
-            input = new RandomAccessFile(file, "r");
+        try (RandomAccessFile input = new RandomAccessFile(file, "r")) {
+            String line;
             while ((line = input.readLine()) != null) {
                 System.out.println(line);
             }
-            return;
-        } finally {
-            if (input != null) {
-                input.close();
-            }
+        } catch (FileNotFoundException e) {
+            System.out.println("File not found: " + file);
+        } catch (IOException e) {
+            System.out.println("Error reading file: " + file);
         }
-        */
     }
 }
