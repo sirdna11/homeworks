@@ -11,6 +11,12 @@ public class ArrayListExercise1 {
 
         //TODO: Add 5 colors to list
         colors.add("Red");
+        colors.add("green");
+        colors.add("black");
+        colors.add("blue");
+        colors.add("orange");
+        colors.add("brown");
+
 
         System.out.println(colors);
     }
