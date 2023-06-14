@@ -6,7 +6,7 @@ public class Main {
         Basket<Apple> appleBasket = new Basket<>();
 
         try {
-            for (int i = 0; i < 9; i++) {
+            for (int i = 0; i < 10; i++) {
                 appleBasket.addToBasket(new Apple());
             }
             appleBasket.addToBasket(new Apple());

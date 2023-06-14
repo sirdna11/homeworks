@@ -23,4 +23,8 @@ class Basket<T> {
         currentSize--;
 
     }
+
+    public int getCurrentSize() {
+        return currentSize;
+    }
 }
